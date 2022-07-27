@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandruIordan99
-- 👀 I’m interested in learning enough to build a portfolio for my first job 
-- I've only just started Javascript.
+- 👀 I’m interested in finishing the CS50 Harvard course.
+- I've tried a few things for the past few months, hopefully with this course I'll  finally be able to build worthwhile projects.
 
 <!---
 AlexandruIordan99/AlexandruIordan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
