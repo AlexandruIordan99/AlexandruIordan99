@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @AlexandruIordan99
+- 👋 Hi, I’m Alexandru. I am a soon-to-be data science graduate passionate about software development. While I have created deep learning models for my master's thesis, my current interests lie in backend development using Java and Springboot specifically.
