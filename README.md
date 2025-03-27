@@ -1,1 +1,1 @@
-Hi, I’m Alexandru. I am a sdata science graduate who is passionate about software development. While I have created deep learning models for my master's thesis, my current interests lie in backend development using Java and Springboot specifically.
+Hi, I’m Alexandru. I am a data science graduate who is passionate about software development. While I have created deep learning models for my master's thesis, my current interests lie in backend development using Java and Springboot specifically.
